@@ -12,5 +12,7 @@
 
 # use of Recharts
 1. making charts from 
-    rechart.js
+    
+# rechart.js
+
     line charts, piecharts, histogram etc etc
